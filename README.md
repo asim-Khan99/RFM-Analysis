@@ -29,7 +29,7 @@ In this project, I:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * **Language:** Python 🐍
 * **Libraries:**
@@ -40,7 +40,7 @@ In this project, I:
 
 ---
 
-## 🛠 Steps in the Project
+##  Steps in the Project
 
 1. **Data Preparation**: Grouped customer transactions.
 2. **RFM Calculation**: Extracted Recency, Frequency, and Monetary values.
